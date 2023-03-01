@@ -10,7 +10,7 @@ from problem_5 import main
 from tud_tests import set_keyboard_input, get_display_output
 
 
-def test_problem_4():
+def test_problem_5():
     if not os.path.exists("problem_5.py"):
         sys.exit("Error: problem_5.py not found")
 
